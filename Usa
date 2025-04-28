@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CPA Offers</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body style="background-color: #28a745; margin: 0; padding: 20px; font-family: Arial, sans-serif;">
+
+    <div style="display: flex; flex-direction: column; gap: 30px; max-width: 600px; margin: auto;">
+
+        <!-- Offer 1 -->
+        <div style="background: #fff; border-radius: 10px; padding: 20px; text-align: center;">
+            <img src="Offer_Image_Link_Here" alt="Offer 1" style="width: 100%; height: auto; border-radius: 10px;">
+            <h2 style="color: #333; margin-top: 15px;">Offer Title Here</h2>
+            <p style="color: #666; font-size: 16px;">Offer description goes here. Describe the benefits or what the user will get by applying to this offer.</p>
+            <a href="Offer_Link_Here" style="display: inline-block; margin-top: 15px; padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Apply Now</a>
+        </div>
+
+        <!-- Offer 2 -->
+        <div style="background: #fff; border-radius: 10px; padding: 20px; text-align: center;">
+            <img src="Offer_Image_Link_Here" alt="Offer 2" style="width: 100%; height: auto; border-radius: 10px;">
+            <h2 style="color: #333; margin-top: 15px;">Offer Title Here</h2>
+            <p style="color: #666; font-size: 16px;">Offer description goes here. Describe the benefits or what the user will get by applying to this offer.</p>
+            <a href="Offer_Link_Here" style="display: inline-block; margin-top: 15px; padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Apply Now</a>
+        </div>
+
+</body>
+</html>
